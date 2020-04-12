@@ -4,4 +4,4 @@ In NumericTimeTest.ipynb I evaluated speed of iterrows() vs itertuples() vs appl
 
 In nonNumericTimeTest.ipynb I evaluated speed of iterrows() vs itertuples() vs apply() vs map() vs np.vectorize() vs np.where() vs pandas.Series.map() for the same task.
 
-I added some usecase of Jupyter Notebook's Fortran magic in FortranMagic.
+I added some usecases of Jupyter Notebook's Fortran magic in FortranMagic.
